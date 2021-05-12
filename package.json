@@ -21,6 +21,6 @@
         "access": "public"
     },
     "author": "Kristóf-Attila Kovács",
-    "name": "web3_wrappedcontract",
+    "name": "kwrappedcontract",
     "version": "0.0.1"
 }
